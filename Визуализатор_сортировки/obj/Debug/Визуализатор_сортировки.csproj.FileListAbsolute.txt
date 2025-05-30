@@ -1,0 +1,21 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.exe.config
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.AssemblyReference.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.Properties.Resources.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.GenerateResource.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.CoreCompileInputs.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.MainForm.resources
+G:\ТиМП\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.exe.config
+G:\ТиМП\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.exe
+G:\ТиМП\Визуализатор_сортировки\bin\Debug\Визуализатор_сортировки.pdb
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.AssemblyReference.cache
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.exe.config
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.MainForm.resources
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.Properties.Resources.resources
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.GenerateResource.cache
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.csproj.CoreCompileInputs.cache
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.exe
+G:\ТиМП\Визуализатор_сортировки\obj\Debug\Визуализатор_сортировки.pdb
